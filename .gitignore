@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+.vs/
+.git/
+x64/
+*.filters
+.user
+GameOfLifeInC/x64/
